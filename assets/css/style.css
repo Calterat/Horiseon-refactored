@@ -79,7 +79,7 @@ a {
     color: #ffffff;
 }
 
-.what-we-do img {
+.what-we-do-article img {
     float: left;
     margin-right: 25px;
     max-height: 200px;
@@ -87,7 +87,7 @@ a {
 
 /* This is the one picture in What We Do that floats right */
 
-.what-we-do .float-right {
+.what-we-do-article .float-right {
     float: right;
     margin-left: 25px;
     margin-right: 0;
