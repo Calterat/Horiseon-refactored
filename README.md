@@ -48,6 +48,11 @@ Open with... <Your preferred browser>
 ```
 
 
+## Webpage Image
+
+![](./design-layout.jpg)
+
+
 
 ## Additional Notes
 
